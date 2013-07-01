@@ -6,4 +6,3 @@ get '/' => sub {
 };
 
 dance;
-
